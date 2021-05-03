@@ -8,7 +8,7 @@
 # Please copy this file to your home directory and modify it
 # to suit your needs.
 # 
-# If you need any help, please email rc-help@rit.edu
+# 
 #
 
 # Name of the job - You'll probably want to customize this.
