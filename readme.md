@@ -1,4 +1,5 @@
-<h2>Matrix Multiplication Using CUDA with or without tiling</h2>
+<h2>Tiled Matrix-Matrix Multiplication</h2>
+It is an algorithm for matrix multiplication in which threads collaborate to reduce global memory traffic. Using this algorithm, multiple accesses to the global memory for fetching the same data is avoided.
 <p>Tiling helps increase the performance by using a device shared memory</p>
 </br>
 <h4>Here are some links to understand tiling</h4>
