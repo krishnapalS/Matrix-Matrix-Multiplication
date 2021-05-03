@@ -1,7 +1,4 @@
-/**
-*Developed By Karan Bhagat
-*March 2017
-**/
+
 
 #include <stdio.h>
 #include <stdlib.h>
